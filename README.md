@@ -10,3 +10,9 @@ Execute as follows:
 <b>Step 1:</b> change permissions (chmod 755 dns-axfr.sh)
 
 <b>Step 2:</b> Now run the file (./dns-axfr.sh "domain name")
+
+
+
+
+
+Find about Zone Transfer here: <b>https://en.wikipedia.org/wiki/DNS_zone_transfer</b>
